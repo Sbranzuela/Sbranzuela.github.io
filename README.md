@@ -9,7 +9,7 @@ body {
 #content {
     background: lightblue;
     min-width: 200px;
-    max-width: 500px;
+    max-width: 450px;
     padding: 50px;
     margin: auto;
     margin-top: -50px;
@@ -41,13 +41,13 @@ h3 {
             <a href="sbran591@students.bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to sleeping and the beach
+            I enjoy sleeping and going to the beach
          </p>
         <h3>EDUCATION</h3>
         Business Admin<br />
         Bob Jones University<br />
         Example image:
-        <img src="![image](https://github.com/Sbranzuela/Sbranzuela.github.io/assets/156630805/58f00aff-5136-496c-84f8-480a90cc1005)
+        <img src="!https://github.com/Sbranzuela/Sbranzuela.github.io/assets/156630805/58f00aff-5136-496c-84f8-480a90cc1005)
 " />
     </div>
 </body>
