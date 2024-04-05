@@ -3,11 +3,11 @@
 <head>
 <style>
 body {
-    background: lightgreen;
-    font-family: Verdana;
+    background: white;
+    font-family: Calibri;
 }  
 #content {
-    background: lightyellow;
+    background: lightblue;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
@@ -34,7 +34,7 @@ h3 {
         <h1>Sharmaine Branzuela</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying Business Admin I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University studying business admin with a focus in finance. I work at Carolina Gourmet Snowballs</p>
          <p>
             I attend Westgate Baptist Church in Spartanburg SC. My favorite website is  
             <a href="https://www.healthline.com/">here</a>, and you can email me  
