@@ -17,7 +17,7 @@ body {
 }
 h1 {
     letter-spacing: 2px;
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
 }
 h2 {
