@@ -47,7 +47,8 @@ h3 {
         Business Admin<br />
         Bob Jones University<br />
         Example image:
-        <img src="https://www.bing.com/images/search?view=detailV2&ccid=nE15CaW2&id=4AEFB18969A302C5FFB74B0DC92D8203E117BDB0&thid=OIP.nE15CaW2-1Dlp_tS3E0gXQHaE7&mediaurl=https%3a%2f%2fwww.freefoodphotos.com%2fimagelibrary%2ffruit%2fbanana_on_table.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c4d7909a5b6fb50e5a7fb52dc4d205d%3frik%3dsL0X4QOCLckNSw%26pid%3dImgRaw%26r%3d0&exph=2329&expw=3500&q=bananas&simid=608040685459295247&FORM=IRPRST&ck=881C33029DA71A6C44C72CEC3824ABC5&selectedIndex=0&itb=0" />
+        <img src="![image](https://github.com/Sbranzuela/Sbranzuela.github.io/assets/156630805/58f00aff-5136-496c-84f8-480a90cc1005)
+" />
     </div>
 </body>
 </html>
