@@ -10,7 +10,7 @@ body {
     background: lightblue;
     min-width: 200px;
     max-width: 450px;
-    padding: 50px;
+    padding: 60px;
     margin: auto;
     margin-top: -50px;
     line-height: 150%;
@@ -47,8 +47,7 @@ h3 {
         Business Admin<br />
         Bob Jones University<br />
         Example image:
-        <img src="!https://github.com/Sbranzuela/Sbranzuela.github.io/assets/156630805/58f00aff-5136-496c-84f8-480a90cc1005)
-" />
+        <img src="https://th.bing.com/th/id/OIP.OURg9KhhFO6jon7nj6X_owHaE8?w=264&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" />
     </div>
 </body>
 </html>
